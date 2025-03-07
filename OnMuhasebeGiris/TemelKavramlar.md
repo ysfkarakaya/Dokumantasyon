@@ -48,11 +48,19 @@ Yani kasanın bakiyesi 1000TL artar.
 
 
 
-## Banka Hesabı 
+### Kasa
+* **Tanım:** Şirketlerin nakit giriş ve çıkışını kaydettikleri hesap
+* **Özellik:** Negatif bakiye olamaz
+* **İşlemler:** 
+  - *Tahsilat (nakit giriş):* Kasa borçlanır (+)
+  - *Ödeme (nakit çıkış):* Kasa alacaklanır (-)
 
-**Banka Hesabı** işletmelerin bankaya yatırdığı paraların izlenmesinde kullandıkları finansal bir hesaptır. 
-
-Banka hesabı hem borçlu hem alacaklı olarak çalışır.
+### Banka Hesabı
+* **Tanım:** İşletmelerin bankadaki paralarının izlendiği hesap
+* **Özellik:** Hem borçlu hem alacaklı olarak çalışır
+* **İşlemler:**
+  - *Para yatırma:* Banka borçlanır (+)
+  - *Para çekme:* Banka alacaklanır (-)
 
 ## Cari
 
@@ -68,20 +76,7 @@ hesapların borç ve alacak hareketlerinin takibinin yapıldığı hesaplardır.
 ## Depo
 
 **Depo:** Ticari ürünlerin muhafazası amacıyla yapılmış özel yapılardır.
-
-## Kasa
-
-**Kasa:** Şirketlerin nakit giriş ve çıkışını *Kaydet*tikleri hesaba denir.
-
-Kasadan çıkış yapılabilmesi için kasada nakit para bulunması gerekmektedir. 
-
-Kasada ne kadar nakit para varsa en fazla o kadar çıkış sağlanabilir. 
-
-Banka, cari, çek/senet veya başka kasaya yapılan her nakit ödeme kasa üzerinden girilmektedir. 
-
-Kasadan çıkışı yapılan her nakit kasayı alacaklı duruma getirir. 
-
-Ödeme yapılan taraf ise borçlu taraf olacaktır. Bir şirketin birden fazla kasası olabilir.
+ 
 
 ## Çek
 

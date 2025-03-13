@@ -73,7 +73,7 @@ Personel modülü sayesinde işletmenizde çalışan personelleri ve onların ç
 
 .............
 
-## [Sıkça Sorulan Sorular (SSS)](../sss.md)
+## [Sıkça Sorulan Sorular (SSS)](sss.md)
 
 .............
 
